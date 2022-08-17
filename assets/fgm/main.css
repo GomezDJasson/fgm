@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+	background: #fd0202 url("../imagenes/logo.png") no-repeat;
+	background-size: 7.3%;
+	font-family: Jokerman, Arial;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 2%;
+}
+nav a{
+	display: inline-block;
+	width: 17%;
+	padding: 1%;
+	margin-right: 50px;
+	margin-left: 60px;
+	text-decoration: none;
+	background-color: rgba(0, 0, 0, 1);
+	border-radius: 20px;
+}
+a{
+	color: #ffffff;
+}
+iframe{
+	display: inline-block;
+	margin: 1% 1% 1% 10%;
+	
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1500px;
+    overflow: hidden;
+    margin: auto;
+    padding: 60px 0;
+}
+
+.banner img{
+	width: 100%;
+	margin: 1% 0% 1% 0%;
+}	
+
+.subtitulo{
+	font-family: Jokerman, Arial;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.contenedor-galeria{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin-top: 10px;
+}
+
+.img-galeria{
+	width: 22%;
+	display: block;
+	margin-bottom: 15px;
+	box-shadow: 0 0 6px rgba(0, 0, 0,.5);
+	cursor: pointer;
+}
+
+.imagen-light{
+	position: fixed;
+	background: rgba(0, 0, 0,.7);
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transform: translate(100%);
+	transition: transform .2s ease-in-out;
+}
+
+.show{
+	transform: translate(0);
+}
+
+.agregar-imagen{
+	width: 45%;
+	border-radius: 10px;
+	transform: scale(0);
+	transition: transform .3s .2s;
+}
+
+.close{
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 40px;
+	cursor: pointer;
+}
+
+.showImage{
+	transform: scale(1);
+}
+
+footer{
+	background: #fd0202;
+	font-family: Jokerman, Arial;
+	padding: 10px;
+	justify-content: space-between;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+footer img{
+	width: 200px;
+	float: left;
+	margin-bottom: 1%;
+	
+}
+
+.social-media{
+	width: 50%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.social-media-icon{
+	display: inline-block;
+	margin-left: 20px;
+	width: 60px;
+	height: 60px;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	text-align: center;
+	color: #fff;
+}
+
+.social-media-icon:hover{
+	background: #fff;
+	color: #fd0202;
+}
+
+.social-media-icon i{
+	font-size: 30px;
+	line-height: 60px;
+}
+
+.line{
+	width: 90%;
+	max-width: 1220px;
+	margin: 0 auto;
+	height: 2px;
+	background: #fff;
+	margin-bottom: 10px;
+}
