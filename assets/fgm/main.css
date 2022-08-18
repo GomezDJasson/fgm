@@ -28,6 +28,12 @@ nav a{
 a{
 	color: #ffffff;
 }
+nav a:hover{
+	background: transparent;
+	transition: all .3s;
+	cursor: pointer;
+	color:rgb(3, 3, 3);
+}
 iframe{
 	display: inline-block;
 	margin: 1% 1% 1% 10%;
@@ -135,15 +141,15 @@ footer img{
 	margin-left: 20px;
 	width: 60px;
 	height: 60px;
-	border: 1px solid #fff;
+	border: 1px solid rgb(255, 255, 255);
 	border-radius: 50%;
 	text-align: center;
-	color: #fff;
+	color: rgb(255, 255, 255);
 }
 
 .social-media-icon:hover{
-	background: #fff;
-	color: #fd0202;
+	background: rgb(255, 255, 255);
+	color: #020202;
 }
 
 .social-media-icon i{
@@ -156,6 +162,6 @@ footer img{
 	max-width: 1220px;
 	margin: 0 auto;
 	height: 2px;
-	background: #fff;
+	background: rgb(253, 252, 252);
 	margin-bottom: 10px;
 }
