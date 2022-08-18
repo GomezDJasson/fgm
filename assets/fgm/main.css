@@ -1,16 +1,19 @@
 *{
-    margin: 0;
+	margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+	background: linear-gradient(130deg, rgb(147, 29, 8), rgb(30, 15, 97));
+}
 header{
-	background: #fd0202 url("../imagenes/logo.png") no-repeat;
+	background: url("https://drive.google.com/uc?id=1fs1qqoYPrbh5XGr3XmV1ukmEJp0kR_QN") no-repeat;
 	background-size: 7.3%;
 	font-family: Jokerman, Arial;
 	text-transform: uppercase;
 	text-align: center;
 	padding: 2%;
+	margin: 1% 1% 1% 1%;
 }
 nav a{
 	display: inline-block;
@@ -106,7 +109,7 @@ iframe{
 }
 
 footer{
-	background: #fd0202;
+	/*background: #fd0202;*/
 	font-family: Jokerman, Arial;
 	padding: 10px;
 	justify-content: space-between;
