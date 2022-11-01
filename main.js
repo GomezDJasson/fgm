@@ -4,7 +4,7 @@ const menuHamIcon = document.querySelector(".menu");
 const mobileMenu = document.querySelector(".mobile-menu");
 const menuCarritoIcon = document.querySelector(".navbar-shopping-cart");
 const shoppingCartContainer = document.querySelector("#shoppingCartContainer");
-const cardsContainer = document.querySelector(".cards-container");
+const cardsContainer = document.querySelector("#cards-container");
 const productDetailCloseIcon = document.querySelector(".product-detail-close");
 const productDetailContainer = document.querySelector("#productDetail");
 
@@ -21,6 +21,7 @@ function toggleDesktopMenu(){
     }
 
     desktopMenu.classList.toggle("inactive");
+    productDetailContainer.classList.add("inactive");
 }
 function toggleMobileMenu(){
     const isAsideClosed = shoppingCartContainer.classList.contains("inactive");
@@ -45,13 +46,15 @@ function toggleCarritoAside(){
     const isProductDetailClosed = productDetailContainer.classList.contains("inactive");
 
     if (!isProductDetailClosed){
-        shoppingCartContainer.classList.add("inactive")
+        productDetailContainer.classList.add("inactive")
     }
     shoppingCartContainer.classList.toggle("inactive");
 }
 
 function openProductDetailAside(){
     shoppingCartContainer.classList.add("inactive");
+    mobileMenu.classList.add("inactive");
+    desktopMenu.classList.add("inactive");
     productDetailContainer.classList.remove("inactive");
 }
 
@@ -75,20 +78,45 @@ productList.push({
     price: "75.000",
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
-// productList.push({
-//     name: "Funko Pop Princess Hibana",
-//     price: "PROXIMAMENTE",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1194564/Princess_Hibana_%2528Glow_in_the_Dark%2529_Vinyl_Art_Toys_b4e5a01d-1b12-4171-80a2-d3b34e09449a.PNG",
-// })
-// productList.push({
-//     name: "Funko Pop Monokuma",
-//     price: "PROXIMAMENTE",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1154861/Monokuma_Vinyl_Art_Toys_50174e06-743b-459b-bce4-00e24bef47d4.png",
-// })
+productList.push({
+    name: "Funko Pop Yuji Itadori Fall Convention 2022",
+    price: "110.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232683/Yuji_Itadori_Vinyl_Art_Toys_8663a0fa-968d-4edd-b76d-c1c70efd4aa3.png",
+})
+productList.push({
+    name: "Funko Pop Star Sapphire Fall Convention 2022",
+    price: "150.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232499/Star_Sapphire_Vinyl_Art_Toys_57ebaa56-c86f-4257-b800-050bacaca43e.png",
+})
+productList.push({
+    name: "Funko Pop Emperor (The Joker) Fall Convention 2022",
+    price: "110.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232538/Emperor_%2528The_Joker%2529_Vinyl_Art_Toys_bf7e7179-f8d9-4bd7-9ba3-6f637ea5675e.png",
+})
+productList.push({
+    name: "Funko Pop Roger Rabbit Fall Convention 2022",
+    price: "110.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232175/Roger_Rabbit_Vinyl_Art_Toys_e60f50c1-d00a-4b55-ad9b-ed2f37c1bd32.png",
+})
+productList.push({
+    name: "Funko Pop Poison Ivy Batman & Robin",
+    price: "140.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/779509/Poison_Ivy_%2528Batman_and_Robin%2529_Vinyl_Art_Toys_896bcd65-d8a2-4d37-8ec4-aaab76e3a0b9.jpg",
+})
 productList.push({
     name: "Funko Pop Whis Eating Noodles",
     price: "120.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1144935/Whis_%2528Eating_Noodles%2529_Vinyl_Art_Toys_9b47ae0a-2c66-49c4-8bf0-c0b5046391c3.png",
+})
+productList.push({
+    name: "Funko Pop Yuji Itadori Summer Convention 2022",
+    price: "150.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1199858/Yugi_Itadori_with_Slaughter_Demon_Vinyl_Art_Toys_45e64f60-4d78-4953-8601-afafef836091.jpeg",
+})
+productList.push({
+    name: "Funko Pop Starfire Summer Convention 2022",
+    price: "130.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1167014/Starfire_Vinyl_Art_Toys_7b2c8b75-4c8d-4fac-b6cd-2c43c9b3e848.png",
 })
 productList.push({
     name: "Funko Pop Boba Fett",
@@ -115,11 +143,6 @@ productList.push({
     price: "110.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/737495/Sigmund_%255BSummer_Convention%255D_Vinyl_Art_Toys_9697e0c0-6686-40bc-9f53-be446c5aed73.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Jimi Hendrix Maui Live",
-//     price: "70.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1032283/Jimi_Hendrix_%2528Live_in_Maui%2529_Vinyl_Art_Toys_b7347102-db72-46e8-b187-5bdc3e3ffc20.png",
-// })
 productList.push({
     name: "Funko Pop Doctor Doom ECCC 2020",
     price: "130.000",
@@ -200,16 +223,6 @@ productList.push({
     price: "70.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/814034/Maximillion_Pegasus_Vinyl_Art_Toys_1f7f5116-fd39-4c14-a7a7-ad160f983b96.JPG",
 })
-// productList.push({
-//     name: "Funko Pop Snowman Jack",
-//     price: "60.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/587724/Snowman_Jack_Vinyl_Art_Toys_3604c7a9-d6ec-4979-8cb8-048ddb582e82.jpeg",
-// })
-// productList.push({
-//     name: "Funko Pop Coca Cola Polar Bear Flocked",
-//     price: "100.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/761169/Coca-Cola_Polar_Bear_%2528Flocked%2529_Vinyl_Art_Toys_42dc0b06-b4d7-4b15-9833-67032f6d20c8.jpg",
-// })
 productList.push({
     name: "Funko Pop Alien as Russell",
     price: "55.000",
@@ -310,11 +323,6 @@ productList.push({
     price: "250.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/748039/Tony_the_Tiger_%252810-Inch%2529_Vinyl_Art_Toys_0bb5e2e8-e64d-4f1b-9e28-442562ff0e82.jpg",
 })
-productList.push({
-    name: "Funko Pop Yuji Itadori Summer Convention 2022",
-    price: "150.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1199858/Yugi_Itadori_with_Slaughter_Demon_Vinyl_Art_Toys_45e64f60-4d78-4953-8601-afafef836091.jpeg",
-})
 // productList.push({
 //     name: "Funko Pop Growlithe Flocked Fall Convention 2020",
 //     price: "150.000",
@@ -325,16 +333,11 @@ productList.push({
     price: "110.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/844081/Vulpix_%2528Flocked%2529_%255BSummer_Convention%255D_Vinyl_Art_Toys_5f655d8e-b85a-45f1-b68e-98109b5fba5b.jpg",
 })
-productList.push({
-    name: "Funko Pop Starfire Summer Convention 2022",
-    price: "130.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1167014/Starfire_Vinyl_Art_Toys_7b2c8b75-4c8d-4fac-b6cd-2c43c9b3e848.png",
-})
-productList.push({
-    name: "Funko Pop Trafalgar Law",
-    price: "110.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/977754/Trafalgar_Law_Vinyl_Art_Toys_ad8b065e-7caa-423b-a01a-b3ccc4ebfa30.png",
-})
+// productList.push({
+//     name: "Funko Pop Trafalgar Law",
+//     price: "110.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/977754/Trafalgar_Law_Vinyl_Art_Toys_ad8b065e-7caa-423b-a01a-b3ccc4ebfa30.png",
+// })
 // productList.push({
 //     name: "Funko Pop",
 //     price: ".000",
@@ -349,7 +352,6 @@ function renderProducts(arr) {
       // product= {name, price, image} -> product.image
       const productImg = document.createElement("img");
       productImg.setAttribute("src", product.image);
-      productImg.classList.add(".img-galeria")
       productImg.addEventListener("click", openProductDetailAside);
     
       const productInfo = document.createElement("div");
@@ -379,6 +381,6 @@ function renderProducts(arr) {
     
       cardsContainer.appendChild(productCard);
     }
-  }
+}
   
-  renderProducts(productList);
+renderProducts(productList);

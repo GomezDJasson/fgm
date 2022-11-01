@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 /* General */
 :root{
@@ -29,6 +31,7 @@ body{
     font-family: Jokerman, Arial, Helvetica, sans-serif;
     font-size: var(--sm);
     justify-content: space-evenly;
+    padding: 14px;
 }
 /* Navbar general */
 nav{
@@ -75,8 +78,8 @@ nav{
     transition: all .3s;
     cursor: pointer;
 }
-.now{
-    background-color: var(--violet) !important;
+.navbar-left ul .now{
+    background-color: var(--violet);
 }
 .navbar-email{
     color: var(--white);
@@ -114,10 +117,10 @@ nav{
 /* Menu en desktop */
 .desktop-menu {
     position: absolute;
-    top: 125px;
+    top: 115px;
     right: 60px;
     background: var(--white);
-    width: 100px;
+    width: 150px;
     height: auto;
     border: 1px solid var(--orange);
     border-radius: 6px;
@@ -174,13 +177,13 @@ nav{
 .mobile-menu ul li {
     margin-bottom: 24px;
 }
-.email {
+.mobile-menu ul .email {
     font-size: var(--sm);
-    font-weight: 300 !important;
+    font-weight: 300;
 }
-.sign-out {
+.mobile-menu ul .sign-out {
     font-size: var(--sm);
-    color: var(--violet) !important;
+    color: var(--violet);
 }
 
 /* Aside (product detail y carrito)*/
@@ -198,6 +201,7 @@ aside{
 }
 .title-container{
     display: flex;
+    padding: 16px 0;
 }
 .title{
     font-size: var(--lg);
@@ -212,7 +216,7 @@ aside{
     background-color: var(--rose);
     margin-bottom: 24px;
     border-radius: 8px;
-    padding: 0 24px;
+    padding: 16px 24px;
 }
 .order p:nth-child(1){
     display: flex;
@@ -338,8 +342,12 @@ aside{
     justify-content: space-evenly;
     font-size: 30px;
     color: var(--white);
+    padding: 15px;
 }
 /* Product List */
+.main-container{
+    padding: 20px 0;
+}
 .cards-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, 240px);
@@ -389,6 +397,7 @@ aside{
     margin: 1px 40px;
     text-align: justify;
     color: var(--white);
+    padding: 16px 0;
 }
 /* Contacto */
 .m-general{
@@ -421,6 +430,12 @@ footer{
 .contact{
     font-size: var(--sm);
     text-align: center;
+}
+.contact h3{
+    padding: 10px;
+}
+.contact p{
+    padding: 10px;
 }
 .maps{
     text-decoration: none;
@@ -484,8 +499,8 @@ footer{
     .desktop-menu{
         display: none;
     }
-    .now-mobile{
-        color: var(--orange) !important;
+    .mobile-menu .now-mobile{
+        color: var(--orange);
     }
     .logo{
         width: 70px;
