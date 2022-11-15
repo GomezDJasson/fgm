@@ -218,11 +218,11 @@ productList.push({
     price: "110.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/830443/Harry_Potter_%2528World_Cup%2529_%255BSummer_Convention%255D_Vinyl_Art_Toys_bc9f8fc6-72ab-429b-8273-1651bfdc739d.JPG",
 })
-productList.push({
-    name: "Funko Pop Maximillion Pegasus",
-    price: "70.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/814034/Maximillion_Pegasus_Vinyl_Art_Toys_1f7f5116-fd39-4c14-a7a7-ad160f983b96.JPG",
-})
+// productList.push({
+//     name: "Funko Pop Maximillion Pegasus",
+//     price: "70.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/814034/Maximillion_Pegasus_Vinyl_Art_Toys_1f7f5116-fd39-4c14-a7a7-ad160f983b96.JPG",
+// })
 productList.push({
     name: "Funko Pop Alien as Russell",
     price: "55.000",
@@ -293,11 +293,11 @@ productList.push({
     price: "80.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/975964/Sagittarius_Seiya_Vinyl_Art_Toys_5355a33a-b3ca-4596-b7b7-2b6a054ebeeb.png",
 })
-productList.push({
-    name: "Funko Pop Tobi",
-    price: "75.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463406/Tobi_Vinyl_Art_Toys_7de29c2d-0ed9-4c48-b327-23c0cfdcf359.jpeg",
-})
+// productList.push({
+//     name: "Funko Pop Tobi",
+//     price: "75.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463406/Tobi_Vinyl_Art_Toys_7de29c2d-0ed9-4c48-b327-23c0cfdcf359.jpeg",
+// })
 // productList.push({
 //     name: "Funko Pop Orochimaru",
 //     price: "70.000",
