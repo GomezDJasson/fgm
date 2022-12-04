@@ -168,11 +168,11 @@ productList.push({
     price: "50.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463116/Percival_Graves_Vinyl_Art_Toys_55114644-8ee0-425b-9a71-3983c9502687.jpg",
 })
-productList.push({
-    name: "Funko Pop Aang Fall Convention 2021",
-    price: "90.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1047361/Aang_Vinyl_Art_Toys_20a9c95d-162f-4bd0-8fb4-2cb02e2c97b6.jpg",
-})
+// productList.push({
+//     name: "Funko Pop Aang Fall Convention 2021",
+//     price: "90.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1047361/Aang_Vinyl_Art_Toys_20a9c95d-162f-4bd0-8fb4-2cb02e2c97b6.jpg",
+// })
 productList.push({
     name: "Funko Pop Fin Du Chomp Orange",
     price: "85.000",
