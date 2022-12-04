@@ -79,6 +79,11 @@ productList.push({
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
 productList.push({
+    name: "Funko Pop Ulquiorra Winter Convention 2022",
+    price: "Próximamente",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1270467/Ulquiorra_Vinyl_Art_Toys_682a5a02-aa7b-4ad0-89ce-9d18d85852b6.png",
+})
+productList.push({
     name: "Funko Pop Yuji Itadori Fall Convention 2022",
     price: "110.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232683/Yuji_Itadori_Vinyl_Art_Toys_8663a0fa-968d-4edd-b76d-c1c70efd4aa3.png",
@@ -168,11 +173,6 @@ productList.push({
     price: "50.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463116/Percival_Graves_Vinyl_Art_Toys_55114644-8ee0-425b-9a71-3983c9502687.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Aang Fall Convention 2021",
-//     price: "90.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1047361/Aang_Vinyl_Art_Toys_20a9c95d-162f-4bd0-8fb4-2cb02e2c97b6.jpg",
-// })
 productList.push({
     name: "Funko Pop Fin Du Chomp Orange",
     price: "85.000",
