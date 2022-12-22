@@ -78,11 +78,11 @@ productList.push({
     price: "75.000",
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
-productList.push({
-    name: "Funko Pop Ulquiorra Winter Convention 2022",
-    price: "Próximamente",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1270467/Ulquiorra_Vinyl_Art_Toys_682a5a02-aa7b-4ad0-89ce-9d18d85852b6.png",
-})
+// productList.push({
+//     name: "Funko Pop Ulquiorra Winter Convention 2022",
+//     price: "Próximamente",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1270467/Ulquiorra_Vinyl_Art_Toys_682a5a02-aa7b-4ad0-89ce-9d18d85852b6.png",
+// })
 productList.push({
     name: "Funko Pop Yuji Itadori Fall Convention 2022",
     price: "110.000",
@@ -268,11 +268,11 @@ productList.push({
     price: "200.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/802657/The_Kraken_%25286-Inch%2529_Vinyl_Art_Toys_814e3ce2-caaa-49b8-be7b-5124c4b318ad.JPG",
 })
-productList.push({
-    name: "Funko Pop Kurama Susano'o",
-    price: "250.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/789663/Kurama_%2528Majestic_Attire%253A_Susano%2527o%2529_Vinyl_Art_Toys_4740d0ee-e429-46ca-8976-459b0f725c80.JPG",
-})
+// productList.push({
+//     name: "Funko Pop Kurama Susano'o",
+//     price: "250.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/789663/Kurama_%2528Majestic_Attire%253A_Susano%2527o%2529_Vinyl_Art_Toys_4740d0ee-e429-46ca-8976-459b0f725c80.JPG",
+// })
 productList.push({
     name: "Funko Pop Pegasus",
     price: "150.000",
@@ -308,11 +308,11 @@ productList.push({
     price: "80.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/778291/Kurapika_Vinyl_Art_Toys_80a12046-6644-42d9-b473-b7f8e6a3a3dd.jpg",
 })
-productList.push({
-    name: "Funko Pop Zenitsu Agatsuma",
-    price: "75.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/968834/Zenitsu_Agatsuma_Vinyl_Art_Toys_b448d40b-c7ed-473f-a07d-cc1787c384a3.JPG",
-})
+// productList.push({
+//     name: "Funko Pop Zenitsu Agatsuma",
+//     price: "75.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/968834/Zenitsu_Agatsuma_Vinyl_Art_Toys_b448d40b-c7ed-473f-a07d-cc1787c384a3.JPG",
+// })
 productList.push({
     name: "Funko Pop Killua Zoldyck",
     price: "110.000",
