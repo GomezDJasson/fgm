@@ -79,6 +79,11 @@ productList.push({
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
 productList.push({
+    name: "Funko Pop Hades With Chess Board",
+    price: "Próximamente",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/814034/Maximillion_Pegasus_Vinyl_Art_Toys_1f7f5116-fd39-4c14-a7a7-ad160f983b96.JPG",
+})
+productList.push({
     name: "Funko Pop Groot Fall Convention 2022",
     price: "Próximamente",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232360/Groot_Vinyl_Art_Toys_bf7f9ae4-ffba-4642-af63-659899a1177b.png",
@@ -218,11 +223,6 @@ productList.push({
     price: "110.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/830443/Harry_Potter_%2528World_Cup%2529_%255BSummer_Convention%255D_Vinyl_Art_Toys_bc9f8fc6-72ab-429b-8273-1651bfdc739d.JPG",
 })
-// productList.push({
-//     name: "Funko Pop Maximillion Pegasus",
-//     price: "70.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/814034/Maximillion_Pegasus_Vinyl_Art_Toys_1f7f5116-fd39-4c14-a7a7-ad160f983b96.JPG",
-// })
 productList.push({
     name: "Funko Pop Alien as Russell",
     price: "55.000",
