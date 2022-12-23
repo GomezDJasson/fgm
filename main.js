@@ -78,11 +78,11 @@ productList.push({
     price: "75.000",
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
-// productList.push({
-//     name: "Funko Pop Ulquiorra Winter Convention 2022",
-//     price: "Próximamente",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1270467/Ulquiorra_Vinyl_Art_Toys_682a5a02-aa7b-4ad0-89ce-9d18d85852b6.png",
-// })
+productList.push({
+    name: "Funko Pop Groot Fall Convention 2022",
+    price: "Próximamente",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232360/Groot_Vinyl_Art_Toys_bf7f9ae4-ffba-4642-af63-659899a1177b.png",
+})
 productList.push({
     name: "Funko Pop Yuji Itadori Fall Convention 2022",
     price: "110.000",
