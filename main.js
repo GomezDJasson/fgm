@@ -163,11 +163,11 @@ productList.push({
     price: "90.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/749912/Ms._Marvel_%2528First_Appearance%2529_%255BFall_Convention%255D_Vinyl_Art_Toys_9823894d-4827-4b26-af3e-364f1a8e8d3e.jpg",
 })
-productList.push({
-    name: "Funko Pop Shanks",
-    price: "95.000",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/961948/Shanks_Vinyl_Art_Toys_b4ee347c-08d6-4ea8-b3e4-aaaadf4f5366.JPG",
-})
+// productList.push({
+//     name: "Funko Pop Shanks",
+//     price: "95.000",
+//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/961948/Shanks_Vinyl_Art_Toys_b4ee347c-08d6-4ea8-b3e4-aaaadf4f5366.JPG",
+// })
 productList.push({
     name: "Funko Pop Percival Graves",
     price: "50.000",
