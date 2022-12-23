@@ -79,9 +79,19 @@ productList.push({
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
 productList.push({
+    name: "Funko Pop Wonder Woman Cel Shading",
+    price: "Próximamente",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1265956/Wonder_Woman_Vinyl_Art_Toys_544285e6-e625-4065-b9f3-ecaa5d4c3eb0.png",
+})
+productList.push({
+    name: "Funko Pop Spiderman Oscorp Suit",
+    price: "Próximamente",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1231517/Spider-Man_Oscorp_Suit_Vinyl_Art_Toys_79629bef-04e3-4432-979d-7f912cd751f1.png",
+})
+productList.push({
     name: "Funko Pop Hades With Chess Board",
     price: "Próximamente",
-    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/814034/Maximillion_Pegasus_Vinyl_Art_Toys_1f7f5116-fd39-4c14-a7a7-ad160f983b96.JPG",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1151458/Hades_with_Chess_Board_Vinyl_Art_Toys_5dfc184a-4e69-4d11-93a3-875ec5e9a0d3.png",
 })
 productList.push({
     name: "Funko Pop Groot Fall Convention 2022",
@@ -238,11 +248,6 @@ productList.push({
     price: "80.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/719219/Gill_%2528Orange%2529_Vinyl_Art_Toys_09c34b51-76a9-445c-b239-3bd02353e1a8.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Sebulba",
-//     price: "40.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/823381/Sebulba_Vinyl_Art_Toys_fd99ca39-754f-4eec-97d3-5ffcca7ab629.png",
-// })
 productList.push({
     name: "Funko Pop Aurra Sing",
     price: "40.000",
@@ -293,11 +298,6 @@ productList.push({
     price: "80.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/975964/Sagittarius_Seiya_Vinyl_Art_Toys_5355a33a-b3ca-4596-b7b7-2b6a054ebeeb.png",
 })
-// productList.push({
-//     name: "Funko Pop Tobi",
-//     price: "75.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463406/Tobi_Vinyl_Art_Toys_7de29c2d-0ed9-4c48-b327-23c0cfdcf359.jpeg",
-// })
 // productList.push({
 //     name: "Funko Pop Orochimaru",
 //     price: "70.000",
