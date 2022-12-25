@@ -80,7 +80,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Wonder Woman Cel Shading",
-    price: "Próximamente",
+    price: "$100.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1265956/Wonder_Woman_Vinyl_Art_Toys_544285e6-e625-4065-b9f3-ecaa5d4c3eb0.png",
 })
 productList.push({
@@ -90,12 +90,12 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Hades With Chess Board",
-    price: "Próximamente",
+    price: "$95.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1151458/Hades_with_Chess_Board_Vinyl_Art_Toys_5dfc184a-4e69-4d11-93a3-875ec5e9a0d3.png",
 })
 productList.push({
     name: "Funko Pop Groot Fall Convention 2022",
-    price: "Próximamente",
+    price: "$95.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232360/Groot_Vinyl_Art_Toys_bf7f9ae4-ffba-4642-af63-659899a1177b.png",
 })
 productList.push({
@@ -110,7 +110,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Emperor (The Joker) Fall Convention 2022",
-    price: "110.000",
+    price: "Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232538/Emperor_%2528The_Joker%2529_Vinyl_Art_Toys_bf7e7179-f8d9-4bd7-9ba3-6f637ea5675e.png",
 })
 productList.push({
@@ -298,21 +298,21 @@ productList.push({
     price: "80.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/975964/Sagittarius_Seiya_Vinyl_Art_Toys_5355a33a-b3ca-4596-b7b7-2b6a054ebeeb.png",
 })
-// productList.push({
-//     name: "Funko Pop Orochimaru",
-//     price: "70.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/784182/Orochimaru_Vinyl_Art_Toys_1763eda7-5794-4ff2-8ac6-0449301ff358.JPG",
-// })
+productList.push({
+    name: "Funko Pop Orochimaru",
+    price: "Agotado",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/784182/Orochimaru_Vinyl_Art_Toys_1763eda7-5794-4ff2-8ac6-0449301ff358.JPG",
+})
 productList.push({
     name: "Funko Pop Kurapika",
     price: "80.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/778291/Kurapika_Vinyl_Art_Toys_80a12046-6644-42d9-b473-b7f8e6a3a3dd.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Zenitsu Agatsuma",
-//     price: "75.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/968834/Zenitsu_Agatsuma_Vinyl_Art_Toys_b448d40b-c7ed-473f-a07d-cc1787c384a3.JPG",
-// })
+productList.push({
+    name: "Funko Pop Zenitsu Agatsuma",
+    price: "Agotado",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/968834/Zenitsu_Agatsuma_Vinyl_Art_Toys_b448d40b-c7ed-473f-a07d-cc1787c384a3.JPG",
+})
 productList.push({
     name: "Funko Pop Killua Zoldyck",
     price: "110.000",
@@ -323,21 +323,21 @@ productList.push({
     price: "250.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/748039/Tony_the_Tiger_%252810-Inch%2529_Vinyl_Art_Toys_0bb5e2e8-e64d-4f1b-9e28-442562ff0e82.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Growlithe Flocked Fall Convention 2020",
-//     price: "150.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1024355/Growlithe_%2528Flocked%2529_%255BFall_Convention%255D_Vinyl_Art_Toys_924df1d4-6ea3-4d54-bc66-41b577ba2001.png",
-// })
+productList.push({
+    name: "Funko Pop Growlithe Flocked Fall Convention 2020",
+    price: "Agotado",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1024355/Growlithe_%2528Flocked%2529_%255BFall_Convention%255D_Vinyl_Art_Toys_924df1d4-6ea3-4d54-bc66-41b577ba2001.png",
+})
 productList.push({
     name: "Funko Pop Vulpix Flocked Summer Convention 2020",
     price: "110.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/844081/Vulpix_%2528Flocked%2529_%255BSummer_Convention%255D_Vinyl_Art_Toys_5f655d8e-b85a-45f1-b68e-98109b5fba5b.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Trafalgar Law",
-//     price: "110.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/977754/Trafalgar_Law_Vinyl_Art_Toys_ad8b065e-7caa-423b-a01a-b3ccc4ebfa30.png",
-// })
+productList.push({
+    name: "Funko Pop Trafalgar Law",
+    price: "Agotado",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/977754/Trafalgar_Law_Vinyl_Art_Toys_ad8b065e-7caa-423b-a01a-b3ccc4ebfa30.png",
+})
 // productList.push({
 //     name: "Funko Pop",
 //     price: ".000",
