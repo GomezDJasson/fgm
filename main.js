@@ -80,22 +80,22 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Wonder Woman Cel Shading",
-    price: "$100.000",
+    price: "100.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1265956/Wonder_Woman_Vinyl_Art_Toys_544285e6-e625-4065-b9f3-ecaa5d4c3eb0.png",
 })
 productList.push({
     name: "Funko Pop Spiderman Oscorp Suit",
-    price: "Próximamente",
+    price: "100.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1231517/Spider-Man_Oscorp_Suit_Vinyl_Art_Toys_79629bef-04e3-4432-979d-7f912cd751f1.png",
 })
 productList.push({
     name: "Funko Pop Hades With Chess Board",
-    price: "$95.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1151458/Hades_with_Chess_Board_Vinyl_Art_Toys_5dfc184a-4e69-4d11-93a3-875ec5e9a0d3.png",
 })
 productList.push({
     name: "Funko Pop Groot Fall Convention 2022",
-    price: "$95.000",
+    price: "95.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232360/Groot_Vinyl_Art_Toys_bf7f9ae4-ffba-4642-af63-659899a1177b.png",
 })
 productList.push({
@@ -110,12 +110,12 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Emperor (The Joker) Fall Convention 2022",
-    price: "Agotado",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232538/Emperor_%2528The_Joker%2529_Vinyl_Art_Toys_bf7e7179-f8d9-4bd7-9ba3-6f637ea5675e.png",
 })
 productList.push({
     name: "Funko Pop Roger Rabbit Fall Convention 2022",
-    price: "110.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232175/Roger_Rabbit_Vinyl_Art_Toys_e60f50c1-d00a-4b55-ad9b-ed2f37c1bd32.png",
 })
 productList.push({
@@ -300,7 +300,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Orochimaru",
-    price: "Agotado",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/784182/Orochimaru_Vinyl_Art_Toys_1763eda7-5794-4ff2-8ac6-0449301ff358.JPG",
 })
 productList.push({
@@ -310,7 +310,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Zenitsu Agatsuma",
-    price: "Agotado",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/968834/Zenitsu_Agatsuma_Vinyl_Art_Toys_b448d40b-c7ed-473f-a07d-cc1787c384a3.JPG",
 })
 productList.push({
@@ -325,7 +325,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Growlithe Flocked Fall Convention 2020",
-    price: "Agotado",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1024355/Growlithe_%2528Flocked%2529_%255BFall_Convention%255D_Vinyl_Art_Toys_924df1d4-6ea3-4d54-bc66-41b577ba2001.png",
 })
 productList.push({
@@ -335,7 +335,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Trafalgar Law",
-    price: "Agotado",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/977754/Trafalgar_Law_Vinyl_Art_Toys_ad8b065e-7caa-423b-a01a-b3ccc4ebfa30.png",
 })
 // productList.push({
