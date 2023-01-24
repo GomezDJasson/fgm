@@ -79,6 +79,11 @@ productList.push({
     image: "https://http2.mlstatic.com/D_NQ_NP_623090-MCO49800046437_042022-O.webp",
 })
 productList.push({
+    name: "Funko Pop Nobara Kugisaki",
+    price: "130.000",
+    image: "https://cdn.shopify.com/s/files/1/0611/6995/9149/products/obara-kugisaki-Funko-Pop.png?v=1672366047",
+})
+productList.push({
     name: "Funko Pop Wonder Woman Cel Shading",
     price: "100.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1265956/Wonder_Woman_Vinyl_Art_Toys_544285e6-e625-4065-b9f3-ecaa5d4c3eb0.png",
@@ -178,11 +183,11 @@ productList.push({
     price: "90.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/749912/Ms._Marvel_%2528First_Appearance%2529_%255BFall_Convention%255D_Vinyl_Art_Toys_9823894d-4827-4b26-af3e-364f1a8e8d3e.jpg",
 })
-// productList.push({
-//     name: "Funko Pop Shanks",
-//     price: "95.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/961948/Shanks_Vinyl_Art_Toys_b4ee347c-08d6-4ea8-b3e4-aaaadf4f5366.JPG",
-// })
+productList.push({
+    name: "Funko Pop Shanks",
+    price: " Agotado",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/961948/Shanks_Vinyl_Art_Toys_b4ee347c-08d6-4ea8-b3e4-aaaadf4f5366.JPG",
+})
 productList.push({
     name: "Funko Pop Percival Graves",
     price: "50.000",
@@ -273,11 +278,11 @@ productList.push({
     price: "200.000",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/802657/The_Kraken_%25286-Inch%2529_Vinyl_Art_Toys_814e3ce2-caaa-49b8-be7b-5124c4b318ad.JPG",
 })
-// productList.push({
-//     name: "Funko Pop Kurama Susano'o",
-//     price: "250.000",
-//     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/789663/Kurama_%2528Majestic_Attire%253A_Susano%2527o%2529_Vinyl_Art_Toys_4740d0ee-e429-46ca-8976-459b0f725c80.JPG",
-// })
+productList.push({
+    name: "Funko Pop Kurama Susano'o",
+    price: "250.000",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/789663/Kurama_%2528Majestic_Attire%253A_Susano%2527o%2529_Vinyl_Art_Toys_4740d0ee-e429-46ca-8976-459b0f725c80.JPG",
+})
 productList.push({
     name: "Funko Pop Pegasus",
     price: "150.000",
