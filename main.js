@@ -90,7 +90,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Spiderman Oscorp Suit",
-    price: "100.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1231517/Spider-Man_Oscorp_Suit_Vinyl_Art_Toys_79629bef-04e3-4432-979d-7f912cd751f1.png",
 })
 productList.push({
@@ -200,7 +200,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Leorio",
-    price: "70.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/778292/Leorio_Vinyl_Art_Toys_0464d0b3-6e61-4805-b544-2f76eb5b6dcb.jpg",
 })
 productList.push({
@@ -290,7 +290,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Tanker Bug ECCC 2020",
-    price: "150.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/780568/Tanker_Bug_%25286-Inch%2529_%255BSpring_Convention%255D_Vinyl_Art_Toys_5ba3179c-f0ef-47a9-863f-40378c48a483.jpg",
 })
 productList.push({
