@@ -65,12 +65,12 @@ function closeProductDetailAside(){
 const productList = [];
 productList.push({
     name: "Kotobukiya Dark Magician Girl",
-    price: "420.000",
+    price: " Agotado",
     image: "https://http2.mlstatic.com/D_NQ_NP_956670-MCO49800047361_042022-O.webp",
 })
 productList.push({
     name: "Pokémon Gallery Allolan Vulpix",
-    price: "75.000",
+    price: " Agotado",
     image: "https://http2.mlstatic.com/D_NQ_NP_965709-MCO49800046605_042022-O.webp",
 })
 productList.push({
@@ -85,7 +85,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Wonder Woman Cel Shading",
-    price: "100.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1265956/Wonder_Woman_Vinyl_Art_Toys_544285e6-e625-4065-b9f3-ecaa5d4c3eb0.png",
 })
 productList.push({
@@ -100,7 +100,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Groot Fall Convention 2022",
-    price: "95.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1232360/Groot_Vinyl_Art_Toys_bf7f9ae4-ffba-4642-af63-659899a1177b.png",
 })
 productList.push({
@@ -175,7 +175,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Tanjiro Kamado Hinokami Kagura Dance",
-    price: "125.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/968779/Tanjiro_Kamado_%2528Hinokami_Kagura_Dance%2529_Vinyl_Art_Toys_90dc4aa6-e6fc-4577-9924-c7e53f9947e1.JPG",
 })
 productList.push({
@@ -215,7 +215,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Wallace Wells Summer Convention 2020",
-    price: "120.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/830446/Wallace_Wells_%255BSummer_Convention%255D_Vinyl_Art_Toys_542c5211-1bd6-4340-aaa3-68bb39a92859.JPG",
 })
 productList.push({
@@ -295,12 +295,12 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Gaara",
-    price: "65.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/784176/Gaara_Vinyl_Art_Toys_97b1c9ca-4997-427f-b0ae-974632947002.JPG",
 })
 productList.push({
     name: "Funko Pop Sagittarius Seiya",
-    price: "80.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/975964/Sagittarius_Seiya_Vinyl_Art_Toys_5355a33a-b3ca-4596-b7b7-2b6a054ebeeb.png",
 })
 productList.push({
@@ -335,7 +335,7 @@ productList.push({
 })
 productList.push({
     name: "Funko Pop Vulpix Flocked Summer Convention 2020",
-    price: "110.000",
+    price: " Agotado",
     image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/844081/Vulpix_%2528Flocked%2529_%255BSummer_Convention%255D_Vinyl_Art_Toys_5f655d8e-b85a-45f1-b68e-98109b5fba5b.jpg",
 })
 productList.push({
