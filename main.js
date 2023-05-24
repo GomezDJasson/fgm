@@ -81,7 +81,7 @@ productList.push({
 productList.push({
     name: "Funko Pop Nobara Kugisaki",
     price: "130.000",
-    image: "https://cdn.shopify.com/s/files/1/0611/6995/9149/products/obara-kugisaki-Funko-Pop.png?v=1672366047",
+    image: "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/1234771/Nobara_Kugisaki_Vinyl_Art_Toys_b57e27f5-5139-4b23-b7df-dedb4d639599.png",
 })
 productList.push({
     name: "Funko Pop Wonder Woman Cel Shading",
